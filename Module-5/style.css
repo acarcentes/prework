@@ -1,0 +1,14 @@
+body {
+    background-color: blue;
+}
+h1 {color: blueviolet;
+    text-align: center;
+}
+h2 {color: red;
+text-align: left;}
+h3 {color: blue;
+text-align: right;}
+h4 {color: green;
+text-align: left;}
+p {color: green;
+}
